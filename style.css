@@ -1,0 +1,58 @@
+h1{
+	color: blue;
+	text-align: center;
+}
+h4{
+	color: blue;
+	text-align: center;
+}
+
+.table1 {
+    font-family: sans-serif;
+    color: #444;
+    border-collapse: collapse;
+    width: 50%;
+    border: 1px solid #f2f5f7;
+}
+
+.table1 tr th{
+    background: #35A9DB;
+    color: #fff;
+    text-align: 5px 30px;
+    font-weight: 50%;
+    font-family:
+}
+
+.table1, th, td {
+    padding: 5px 30px;
+    text-align: center;
+}
+
+.table1 tr:hover {
+    background-color: #f5f5f5;
+}
+
+.table1 tr:nth-child(even) {
+    background-color: #f2f2f2;
+}
+
+
+
+
+
+
+
+
+.proses tr td{
+  background:#2C97DF;
+  color:white;
+  border-top:0;
+  border-left:0;
+  border-right:0;
+  border-bottom:5px solid #2A80B9;
+  padding:10px 20px;
+  text-decoration:none;
+  font-family:sans-serif;
+  font-size:11pt;
+
+}
